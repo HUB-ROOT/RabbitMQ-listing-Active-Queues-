@@ -29,4 +29,4 @@ A lightweight C# Windows Forms application that connects to the RabbitMQ Managem
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/RabbitMQQueueMonitor.git
+   git clone https://github.com/HUB-ROOT/RabbitMQ-listing-Active-Queues-.git
